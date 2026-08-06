@@ -272,7 +272,7 @@
                     </svg>
                 </button>
                 <a href="{{ route('estudiante.dashboard') }}" style="display: flex; align-items: center; text-decoration: none;">
-                    <img src="https://aulavirtualmoodle.uleam.edu.ec/pluginfile.php/1/core_admin/logo/0x200/1767816587/logo_ULEAM_2017_vertical.png" alt="ULEAM" style="height: 45px; width: auto;">
+                    <img src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png" alt="Logo" style="height: 45px; width: auto;">
                 </a>
                 <span>Portal del Estudiante</span>
             </div>
