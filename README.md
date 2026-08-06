@@ -42,7 +42,8 @@ Sistema web desarrollado para administrar el proceso de registro, revisión y va
 <img width="1862" height="916" alt="image" src="https://github.com/user-attachments/assets/d6f86a4e-091b-409d-8e82-1751ef8ff0ee" />
 <img width="1866" height="922" alt="image" src="https://github.com/user-attachments/assets/5e07e43e-6969-410e-ad5d-0ebabd15138e" />
 <img width="1866" height="925" alt="image" src="https://github.com/user-attachments/assets/a3fb756e-3a86-4af3-b8a2-3010f8a7c222" />
-<img width="1849" height="925" alt="image" src="https://github.com/user-attachments/assets/b75223f8-2d64-42bc-8e07-1e7773153d73" />
+<img width="1849" height="924" alt="image" src="https://github.com/user-attachments/assets/0f949909-476a-484f-a5bf-009988c8be1b" />
 
+<img width="1849" height="925" alt="image" src="https://github.com/user-attachments/assets/b75223f8-2d64-42bc-8e07-1e7773153d73" />
 <img width="1864" height="924" alt="image" src="https://github.com/user-attachments/assets/05c0a1c5-bb77-4f92-a8e8-1d34b7b0ed5e" />
 <img width="1843" height="921" alt="image" src="https://github.com/user-attachments/assets/77204a35-e2a9-49e1-b16e-2f1009af31f3" />
