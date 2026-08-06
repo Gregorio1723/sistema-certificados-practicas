@@ -22,7 +22,7 @@ body {
     background-color: #f4f6f8;
 }
 
-.uleam-logo {
+.logo {
     display: block;
     margin: 0 auto 24px;
     height: 90px;
@@ -99,11 +99,11 @@ input[type="checkbox"] {
 </a>
 
 
-        <!-- Logo ULEAM -->
+        <!-- Logo -->
         <img
-            src="https://aulavirtualmoodle.uleam.edu.ec/pluginfile.php/1/core_admin/logo/0x200/1767816587/logo_ULEAM_2017_vertical.png"
-            alt="Logo ULEAM"
-            class="uleam-logo"
+            src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png"
+            alt="Logo"
+            class="logo"
         >
 
         

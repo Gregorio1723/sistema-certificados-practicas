@@ -169,8 +169,8 @@
     text-align: left;
 }
 
-/* Logo ULEAM */
-.uleam-logo {
+/* Logo */
+.logo {
     height: 110px !important;
     width: auto !important;
     max-height: none !important;
@@ -295,7 +295,7 @@
         justify-content: center;
     }
 
-    .uleam-logo {
+    .logo {
         justify-self: center;
         margin-top: 32px;
     }
@@ -451,9 +451,7 @@
         <div class="cta-col">
             <h4>Contáctanos</h4>
             <ul class="cta-list">
-                <li><a class="cta-mail" href="mailto:e1314183896@live.uleam.edu.ec">e1314183896@live.uleam.edu.ec</a></li>
-                <li><a class="cta-mail" href="mailto:e1315108926@live.uleam.edu.ec">e1315108926@live.uleam.edu.ec</a></li>
-                <li><a class="cta-mail" href="mailto:e1316749314@live.uleam.edu.ec">e1316749314@live.uleam.edu.ec</a></li>
+                <li><a class="cta-mail" href="mailto:e1314183896@live.uleam.edu.ec">stalinh95@gmail.com</a></li>
             </ul>
         </div>
 
@@ -462,17 +460,15 @@
             <h4>Síguenos</h4>
             <ul class="cta-list">
                 <li><a class="cta-github" href="https://github.com/Gregorio1723" target="_blank">Gregorio1723</a></li>
-                <li><a class="cta-github" href="https://github.com/JoseAMendieta19" target="_blank">JoseAMendieta19</a></li>
-                <li><a class="cta-github" href="https://github.com/JonySenges" target="_blank">JonySenges</a></li>
             </ul>
         </div>
 
         <!-- Logo -->
         <div class="cta-col cta-logo">
             <img
-    src="https://aulavirtualmoodle.uleam.edu.ec/pluginfile.php/1/core_admin/logo/0x200/1767816587/logo_ULEAM_2017_vertical.png"
-    alt="Logo ULEAM"
-    class="uleam-logo"
+    src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png"
+    alt="Logo"
+    class="logo"
     style="height:70px;width:auto;"
 >
 
@@ -484,7 +480,7 @@
 <!-- FOOTER -->
 <footer>
     <p style="font-size:0.85rem;">
-        © todos los derechos reservados - Universidad Laica Eloy Alfaro de Manabí
+        © todos los derechos reservados - Institucion   
     </p>
 
     

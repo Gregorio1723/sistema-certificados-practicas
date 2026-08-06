@@ -1,6 +1,6 @@
 <style>
 /* =====================================
-   IDENTIDAD ULEAM – REGISTRO (LIMPIO)
+    REGISTRO
 ===================================== */
 
 * {
@@ -8,18 +8,18 @@
 }
 
 /* -------- HEADER -------- */
-.uleam-header {
+.institucion-header {
     text-align: center;
     margin-bottom: 28px;
 }
 
-.uleam-logo-register {
+.logo-register {
     max-height: 95px;
     margin: 0 auto 10px;
     display: block;
 }
 
-.uleam-title {
+.title {
     font-size: 1.2rem;
     font-weight: 700;
     color: #1f2937;
@@ -163,7 +163,7 @@ textarea:focus {
     box-shadow: none !important;
 }
 
-/* 🔴 SOLO BORDE ROJO ULEAM */
+/* 🔴 SOLO BORDE ROJO */
 input:focus,
 select:focus {
     border-color: #b91c1c !important;
@@ -194,13 +194,13 @@ select:focus {
     ← Volver al inicio
 </a>
 
-<div class="uleam-header">
+<div class="institucion-header">
     <img 
-        src="https://aulavirtualmoodle.uleam.edu.ec/pluginfile.php/1/core_admin/logo/0x200/1767816587/logo_ULEAM_2017_vertical.png"
-        alt="ULEAM"
-        class="uleam-logo-register"
+        src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png"
+        alt="Logo"
+        class="logo-register"
     >
-    <h1 class="uleam-title">Registro de estudiante</h1>
+    <h1 class="title">Registro de estudiante</h1>
 </div>
 
 
