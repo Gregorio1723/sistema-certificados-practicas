@@ -24,3 +24,4 @@ Sistema web desarrollado para administrar el proceso de registro, revisión y va
 - Blade
 - CSS
 - Vite
+<img width="1888" height="912" alt="image" src="https://github.com/user-attachments/assets/4ccc5853-f847-451d-bc66-4618506b9ce6" />
